@@ -16,6 +16,8 @@ This repository contains two beginner-friendly calculator applications developed
 ✅ Input validation and error handling  
 ✅ Clean, beginner-friendly code  
 ✅ Easy to run and modify
+![GUI Calculator](Calculator%20Outputs/gui-output.png)
+
 
 ---
 
